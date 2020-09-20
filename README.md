@@ -1,0 +1,2 @@
+# javascript_item
+仅仅用来放一些简单的JavaScript脚本
